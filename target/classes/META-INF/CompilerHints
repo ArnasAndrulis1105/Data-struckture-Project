@@ -1,0 +1,14 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,org/example/demo/Benchmark$FullMap.fillCarMap
+inline,org/example/demo/Benchmark$FullMap.generateIdsAndCars
+inline,org/example/demo/Benchmark.generateIdsAndCars
+inline,org/example/demo/Benchmark.insertFixed
+inline,org/example/demo/Benchmark.insertRandom
+inline,org/example/demo/Benchmark.removeFixed
+inline,org/example/demo/Benchmark.removeRandom
+inline,org/example/demo/Benchmark.searchFixed
+inline,org/example/demo/Benchmark.searchRandom
